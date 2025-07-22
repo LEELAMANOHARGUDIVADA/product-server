@@ -6,7 +6,7 @@
     ```
       git clone https://github.com/LEELAMANOHARGUDIVADA/product-server.git
    ```
-2. Install required dependencies using the below command
+2. Install required dependencies by running the below command
     ```
       npm install
    ```
